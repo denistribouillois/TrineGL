@@ -8,7 +8,8 @@ Installation :
 
 cd < source dir >
 
-Télécharger la scène : https://mega.nz/#!owtwQYwL
+Télécharger la scène : 
+https://mega.nz/#!owtwQYwL!g0Zz_-5ab9flz70hZLtIkXepi93xwqKZTZirEMMj-sc
 
 Décomprésser le dossier dans le répertoire courant
 
