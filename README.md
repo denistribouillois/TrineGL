@@ -1,13 +1,4 @@
-# TrineGL
-Projet IMAC3 pour le cours d'OpenGL
-Réalisé par Marion Audebert et Denis Tribouillois
+# aogl_course_2015
+Small code template for an OpenGL course : http://adrien.io/opengl-course
 
-Installation :
-
-cd < source dir >
-
-./build/premake4.linux gmake
-
-make
-
-./aogl_d
+Start each course using the master branch. Solutions for each course are in branches.
