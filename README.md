@@ -4,7 +4,7 @@ Réalisé par Marion Audebert et Denis Tribouillois
 
 Installation :
 
-cd <source dir>
+cd < source dir >
 
 ./build/premake4.linux gmake
 
